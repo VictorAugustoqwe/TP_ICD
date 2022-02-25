@@ -2,11 +2,11 @@
 
 Trabalho prático em grupo da matéria de Introdução à Ciência de Dados.
 
-O trabalho foi desenvolvido por:
-André Luiz Morato Barreto
-Matheus Marchesotti Dutra Ferraz
-Lucas Mesquita Andrade
-Victor Augusto de Lima Cruz
+O trabalho foi desenvolvido por:<br>
+André Luiz Morato Barreto<br>
+Matheus Marchesotti Dutra Ferraz<br>
+Lucas Mesquita Andrade<br>
+Victor Augusto de Lima Cruz<br>
 
 Vídeo de apresentação do projeto:
 
